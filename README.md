@@ -36,6 +36,6 @@ npm start
 - Web deployment using Heroku 
 
 ## Tips:
-- Due to API limitition -- 5 requests per second, we add delay time between each requests, which performs as loading data is a little bit slow.
+- Due to API limitition -- 5 requests per second, we add delay time between each requests in the Charts, which performs as loading data is a little bit slow.
 - Please do not visit our web page for too many times due to the API restrictions.(Unless you are our professor.)
 - Please try to avoid visiting our website on your Macbook, it will lead to a lot of bugs.
